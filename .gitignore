@@ -1,0 +1,17 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+mylablenv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
